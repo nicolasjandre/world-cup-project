@@ -37,11 +37,11 @@ function changeSiteLayoutYellow() {
 function imageTransitionAnimation() {
     document.querySelector("#body").animate([
         // keyframes
-  { transform: 'translateY(-2200px)'},
-  { transform: 'translateY()'}
+  { opacity: 0 },
+  { opacity: 1 }
       ], {
         // timing options
-        duration: 1000
+        duration: 600
       });
 
 }
