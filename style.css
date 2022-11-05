@@ -33,9 +33,9 @@ body.yellow {
 body {
     background-color: #121214;
     background-image: var(--site-layout-background);
-    background-position: center;
+    background-position: top center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
 }
 
 #app {
@@ -161,4 +161,5 @@ strong{
         flex-wrap: wrap;
         justify-content: center;
     }
+
 }
