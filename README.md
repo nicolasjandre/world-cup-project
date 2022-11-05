@@ -11,7 +11,7 @@
 <img src="./.github/preview.png" alt="Calendário da Copa">
 <hr>
 
-<p align="center"><a href="https://www.figma.com/file/4nvgKu7XziR90zsXcPyAtL/Calend%C3%A1rio-de-Jogos-(Community)?node-id=175%3A1815">Layout do projeto</a></p>
+<p align="center"><a target="_blank" href="https://www.figma.com/file/4nvgKu7XziR90zsXcPyAtL/Calend%C3%A1rio-de-Jogos-(Community)?node-id=175%3A1815">Layout do projeto</a></p>
 <hr>
 <p align="center">Tecnologias utilizadas:
 <br>HTML e CSS
